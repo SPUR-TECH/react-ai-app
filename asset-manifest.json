@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ai-app/static/css/main.2752b4c6.css",
+    "main.js": "/react-ai-app/static/js/main.ee631ebf.js",
+    "static/media/ai.png": "/react-ai-app/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/react-ai-app/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/react-ai-app/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/react-ai-app/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/react-ai-app/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/react-ai-app/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/react-ai-app/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/react-ai-app/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/react-ai-app/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/react-ai-app/index.html",
+    "main.2752b4c6.css.map": "/react-ai-app/static/css/main.2752b4c6.css.map",
+    "main.ee631ebf.js.map": "/react-ai-app/static/js/main.ee631ebf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2752b4c6.css",
+    "static/js/main.ee631ebf.js"
+  ]
+}
